@@ -1,5 +1,5 @@
 
-<br>This version of the web app made with React. Full version of the app which is made with React and Redux is also done and will be uploaded soon.
+This version of the web app made with React. Full version of the app which is made with React and Redux is also done and will be uploaded soon.
 
 ## Available Scripts
 
