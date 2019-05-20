@@ -1,3 +1,4 @@
+## Calculator App
 
 ![Screenshot image of the app](/ScreenShot.png)
 
