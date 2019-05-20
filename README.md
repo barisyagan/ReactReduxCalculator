@@ -1,6 +1,6 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-This version of the web app made with React. Full version of the app which is made with React and Redux is also done and will be uploaded soon.
+This version of the web app made with React. Full version of the app which is made with 
+React and Redux is also done and will be uploaded soon.
 
 ## Available Scripts
 
