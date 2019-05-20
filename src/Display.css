@@ -1,0 +1,11 @@
+.Display {
+  background-color: beige;
+  color: blueviolet;
+  border: solid 2.7px orange;
+  padding-top: 7%;
+  text-align: right;
+  font-size: 17px;
+  padding-inline-end: 2px;
+  outline: 1.5px solid blueviolet;
+  outline-offset: -3px;
+}

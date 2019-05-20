@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: blueviolet;
+  height: 100vh;
+  text-align: center;
+}
+
+.Calculator {
+  width: 220px;
+  height: 350px;
+  border-style: dashed;
+  background-color: orange;
+}
+
+
+
